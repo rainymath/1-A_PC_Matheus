@@ -19,3 +19,18 @@ h1 {
 p {
     font-size: 20px;
 }
+
+.chamada{
+    background-color:lightblue ;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 30px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
